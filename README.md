@@ -21,5 +21,5 @@ This repo aims at providing a collection of Transformer-based Model for Long Doc
 
 ## Acknowledgement
 
-Thanks for https://github.com/okhat/blog/blob/main/2024.09.impact.md.
+Thanks for https://github.com/okhat/blog/blob/main/2024.09.impact.md.\n
 Thanks for https://github.com/fla-org/flash-linear-attention.
